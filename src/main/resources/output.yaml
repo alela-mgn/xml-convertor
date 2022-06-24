@@ -1,0 +1,139 @@
+---
+fsa:ResponseFsaType:
+  xmlns:tns: "urn://x-artefact-rosaccreditation-ru/rdc/commons/1.0.2"
+  xmlns:xsi: "http://www.w3.org/2001/XMLSchema-instance"
+  fsa:RdcTr:
+    tns:Applicant:
+      tns:DeclarantType: "Manufacturer"
+      tns:ApplicantType: "UL"
+    tns:ApplicantAl:
+      xsi:nil: true
+    tns:Product:
+      tns:DetailsShippingDocumentation:
+        xsi:nil: true
+      tns:ContractInfo:
+        xsi:nil: true
+      tns:Name: "Сигареты с фильтром \"PR\""
+      tns:SizeNumber: "100000 пачек"
+      tns:PlaceMark:
+        xsi:nil: true
+      tns:Info: "Приказ Министерства здравоохранения и социального развития Россий\
+        ской Федерации от 05 Мая 2012 г. N 490н \"Об утверждении предупредительных\
+        \ надписей о вреде курения, сопровождаемых рисунками\""
+      tns:Okp: 919340
+      tns:ProductInfo: "смола: 6 мг/сиг; никотин: 0,5 мг/сиг; СО: 7 мг/сиг"
+      tns:Standart:
+        xsi:nil: true
+      tns:DcOriginType: "Domestic"
+      tns:DeclareType: "Series"
+      tns:TechRegs:
+        tns:TechReg: "Технический регламент на табачную продукцию (Федеральный Зак\
+          он № 268-ФЗ от 22 декабря 2008г.)"
+        tns:TechRegInfo:
+          xsi:nil: true
+      tns:OkpdText:
+        xsi:nil: true
+    tns:Type: "TrRf"
+    tns:ApplicantUl:
+      tns:Contract:
+        xsi:nil: true
+      tns:ShortName:
+        xsi:nil: true
+      tns:Head: "Табаков Валентин Семенович"
+      tns:Organ:
+        xsi:nil: true
+      tns:FullName: "Закрытое акционерное общество «Табак»"
+      tns:Fax: "7(812)7000001"
+      tns:Date:
+        xsi:nil: true
+      tns:Phone: "7(812)7000000"
+      tns:AddressActual: "190000, РОССИЯ, Ленинградская область, Ломоносовский рай\
+        он, производственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+      tns:Address:
+        tns:string: "190000, РОССИЯ, Ленинградская область, Ломоносовский район, п\
+          роизводственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+      tns:Email: "TabakRU@mail.ru"
+      tns:HeadText: "Табакова Валентина Семеновича"
+      tns:RegInfo:
+        xsi:nil: true
+      tns:OrganForm: "Закрытое акционерное общество"
+      tns:HeadPost: "Руководителя"
+      tns:Ogrn: 1111111111111
+      tns:Inn: 1110001111
+    tns:ApplicantFl:
+      xsi:nil: true
+    tns:Manufacturer:
+      tns:ManufacturerAl:
+        xsi:nil: true
+      tns:ManufacturerUl:
+        tns:AddressActual: "190000, РОССИЯ, Ленинградская область, Ломоносовский р\
+          айон, производственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+        tns:Address:
+          tns:string: "190000, РОССИЯ, Ленинградская область, Ломоносовский район\
+            , производственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+        tns:Email: "TabakRU@mail.ru"
+        tns:Organ:
+          xsi:nil: true
+        tns:OrganForm: "Закрытое акционерное общество"
+        tns:FullName: "Закрытое акционерное общество «Табак»"
+        tns:Fax: "7(812)7000001"
+        tns:Date:
+          xsi:nil: true
+        tns:Phone: "7(812)7000000"
+        tns:Ogrn: 1111111111111
+        tns:Inn: 1110001111
+      tns:Type: "Um"
+      tns:ManufacturerFl:
+        xsi:nil: true
+    tns:DeclareAddInfo:
+      xsi:nil: true
+    tns:ApplicantAu:
+      xsi:nil: true
+    tns:Requisites:
+      tns:Discontinued:
+        xsi:nil: true
+      tns:Status: "Active"
+      tns:DateReg: "2015-12-20T00:00:00"
+      tns:BaseDeclaration:
+        tns:Base:
+          tns:string: "1. Протокол испытаний № 1 от 14.12.2015, выдан Испытательно\
+            й лабораторией «Табак лаборатория-Тест» Закрытого акционерного обществ\
+            а «Табак», № POCC RU.0001.22АА11"
+        tns:Documents: "Заявление № 1/15 от 20.12.2015 Декларация о соответствии К\
+          опия свидетельства о регистрации ОГРН"
+        tns:Laboratory:
+          tns:DateReg: "2014-10-04T00:00:00"
+          tns:Name: "Испытательная лаборатория «Табак лаборатория-Тест»"
+          tns:Document:
+            xsi:nil: true
+          tns:NumberReg: "POCC RU.0001.22АА11"
+          tns:DateExpiry: "2018-10-04T00:00:00"
+          tns:Info:
+            xsi:nil: true
+        tns:Schema: "1д"
+      tns:Number: "Д-RU.СС10.В.00001"
+      tns:DateExpiry: "2018-12-18T00:00:00"
+      tns:NoExpiry:
+        xsi:nil: true
+      tns:Section: "Tr"
+    tns:CertificationOrgan:
+      tns:Address: "190000, Россия, город Санкт-Петербург, ул. 10-ая Красноармейск\
+        ая, дом 100, Литер А"
+      tns:Email: "StPt-Test@yandex.ru"
+      tns:DateReg: "2014-10-10T00:00:00"
+      tns:Number: "РОСС RU.0001.10СП00"
+      tns:Organ: "Росаккредитация"
+      tns:Head: "Петров Иван Сидорович"
+      tns:Experts:
+        tns:Name: "Михаил"
+        tns:Patronymic: "Александрович"
+        tns:Surname: "Медведев"
+      tns:FullName: "Орган по сертификации продукции и услуг Общества с ограниченн\
+        ой ответственностью \"Тест\""
+      tns:Fax: "7(812)3000001"
+      tns:AddressLegal: "190000, Россия, город Санкт-Петербург, ул. 10-ая Красноар\
+        мейская, дом 100, Литер А"
+      tns:Phone: "7(812)3000000"
+      tns:Ogrn:
+        xsi:nil: true
+  xmlns:fsa: "urn://x-artefact-rosaccreditation-ru/rdc/1.0.2"
